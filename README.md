@@ -23,4 +23,5 @@ Here is where you can try the game: https://editor.p5js.org/prajanya_js_designs/
 
 
 
-<img width="443" height="379" alt="Screenshot 2026-02-05 at 11 56 20 PM" src="https://github.com/user-attachments/assets/ca0b83cb-fcca-48c1-8a7f-d399f0029fe0" />
+<img width="1262" height="625" alt="Screenshot 2026-02-07 at 1 06 18 AM" src="https://github.com/user-attachments/assets/bf50260e-c1f3-4f3d-8f2e-3f92eef4cca1" />
+
