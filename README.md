@@ -7,7 +7,7 @@ Here is where you can try the game: https://editor.p5js.org/prajanya_js_designs/
 
 
 
-<img width="458" height="394" alt="Screenshot 2026-02-03 at 12 24 54 PM" src="https://github.com/user-attachments/assets/3916943a-7b63-405f-bd69-a836ddccbf79" />
+<img width="841" height="472" alt="Screenshot 2026-02-18 at 1 35 04 PM" src="https://github.com/user-attachments/assets/cee3032c-a304-43d6-884a-3d7ad86431c2" />
 
 
 
@@ -24,4 +24,17 @@ Here is where you can try the game: https://editor.p5js.org/prajanya_js_designs/
 
 
 <img width="1262" height="625" alt="Screenshot 2026-02-07 at 1 06 18 AM" src="https://github.com/user-attachments/assets/bf50260e-c1f3-4f3d-8f2e-3f92eef4cca1" />
+
+
+
+<img width="832" height="478" alt="Screenshot 2026-02-18 at 1 35 26 PM" src="https://github.com/user-attachments/assets/af852a9f-8345-49d0-9757-183723570b9a" />
+
+
+
+<img width="824" height="467" alt="Screenshot 2026-02-18 at 1 35 48 PM" src="https://github.com/user-attachments/assets/98da3e6d-1643-420c-bd35-068dea00dd88" />
+
+
+
+<img width="830" height="500" alt="Screenshot 2026-02-18 at 1 36 10 PM" src="https://github.com/user-attachments/assets/ce41e0d3-3f97-4f01-a443-73ed8c9ec298" />
+
 
